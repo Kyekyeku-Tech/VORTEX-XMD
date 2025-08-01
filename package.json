@@ -1,12 +1,12 @@
 {
-  "name": "Vortex-Xmd",
+  "name": "Kyekyeku-Tech",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By Hans_Tech",
+  "description": "A WhatsApp Bot Created By Kye_Tech",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Vortex-Xmd",
-    "stop": "pm2 stop Vortex-Xmd",
-    "restart": "pm2 restart Vortex-Xmd"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Kyekyeku-Tech",
+    "stop": "pm2 stop Kyekyeku-Tech",
+    "restart": "pm2 restart Kyekyeku-Tech"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
