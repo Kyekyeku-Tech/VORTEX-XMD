@@ -1,8 +1,8 @@
 {
-  "name": "Vortex-Xmd",
-  "description": "JavaScript WhatsApp bot made by HansTech",
-  "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["Vortex-Xmd"],
+  "name": "Kyekyeku-Tech",
+  "description": "JavaScript WhatsApp bot made by Kyekyeku-Tech",
+  "logo": "https://kyekyeku.tech/assets/images/my-avatar.png",
+  "keywords": ["Kyekyeku-Tech"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
@@ -14,7 +14,7 @@
     "STICKER_NAME": {
       "description": "Sticker pack name.",
       "required": false,
-      "value": "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃"
+      "value": "Kyekyeku-Tech"
     },
     "PREFIX": {
       "description": "Bot command prefix. Do not leave empty or null.",
@@ -79,22 +79,22 @@
     "AUTO_STATUS_MSG": {
       "description": "Message to send when replying to status.",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃 🖤*"
+      "value": "*SEEN YOUR STATUS BY KyeKyekyeku-Tech🖤*"
     },
     "OWNER_NAME": {
       "description": "Bot owner name.",
       "required": false,
-      "value": "HansTech"
+      "value": "Kyekyeku-Tech"
     },
     "OWNER_NUMBER": {
       "description": "Owner's WhatsApp number with country code.",
       "required": false,
-      "value": "2557607XXXX"
+      "value": "2335454XXXX"
     },
     "BOT_NAME": {
       "description": "Bot name.",
       "required": false,
-      "value": "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃"
+      "value": "Kyekyeku-Tech"
     },
     "ANTI_LINK": {
       "description": "Delete group links if found.",
@@ -119,7 +119,7 @@
     "MENU_IMAGE_URL": {
       "description": "Image URL for menu or replies.",
       "required": false,
-      "value": "https://files.catbox.moe/di5kdx.jpg"
+      "value": "https://kyekyeku.tech/assets/images/my-avatar.png"
     },
     "DESCRIPTION": {
       "description": "Custom bot description or caption for menu.",
